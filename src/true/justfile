@@ -6,5 +6,4 @@ all:
 	$(CC)  $(CFLAGS) $(SRC)
 
 clean:
-	rm true 
-install:\n\tinstall -m777 true /usr/local/bin/
+	rm true
