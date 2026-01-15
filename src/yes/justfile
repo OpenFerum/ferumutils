@@ -7,5 +7,3 @@ all:
 
 clean:
 	rm yes
-install:
-	install -m777 yes /usr/local/bin/
